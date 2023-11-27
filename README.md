@@ -6,7 +6,7 @@ Single-cell RNA-Sequencing resource of brain myeloid cells in normal and patholo
 
 Explore (coming)
 
-[**View code**](https://github.com/rsankowski/sankowski_et_al_human_CAMs_code)
+[View code](https://github.com/rsankowski/sankowski_et_al_human_CAMs_code)
 
 [**Raw data download**](https://ega-archive.org/studies/EGAS50000000030)
 
