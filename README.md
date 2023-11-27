@@ -5,7 +5,10 @@ Single-cell RNA-Sequencing resource of brain myeloid cells in normal and patholo
 #### Multiomic spatial landscape of innate immune cells at human central nervous system borders
 
 Explore (coming)
-[Code] (https://github.com/rsankowski/sankowski_et_al_human_CAMs_code)
-[Raw data download] (https://ega-archive.org/studies/EGAS50000000030)
-[Processed data download] (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE245311)
+
+[View code](https://github.com/rsankowski/sankowski_et_al_human_CAMs_code)
+
+[Raw data download](https://ega-archive.org/studies/EGAS50000000030)
+
+[Processed data download](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE245311)
 
