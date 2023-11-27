@@ -1,5 +1,5 @@
 # Brain Myeloid Resource
-Single-cell RNA-Sequencing resource of brain myeloid cells in normal and pathological conditions in humans and mice. The data has been published over the last several years by the members of the Institute of Neuropahology at the University Clinic of Freiburg.
+Single-cell RNA-Sequencing resource of brain myeloid cells in normal and pathological conditions in humans and mice. The data has been published over the last several years by the Institute of Neuropahology at the University Clinic of Freiburg.
 
 ## Datasets
 ### Multiomic spatial landscape of innate immune cells at human central nervous system borders
