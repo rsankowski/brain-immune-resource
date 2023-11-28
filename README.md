@@ -1,6 +1,6 @@
-Single-cell RNA-Sequencing resource of brain immune cells from humans and mice under normal and pathological conditions. The data has been published in peer-reviewed journals by the Institute of Neuropathology at the University Clinic of Freiburg.
+A comprehensive resource on single-cell RNA-Sequencing of brain immune cells from humans and mice, observed under normal and pathological conditions. The featured data has been published in peer-reviewed journals by the Institute of Neuropathology at the University Clinic of Freiburg.
 
-The purpose of this resource is to share and disseminate these data in line with the [FAIR](https://www.go-fair.org/fair-principles/) criteria.
+The primary goal of this resource is to facilitate the widespread dissemination and accessibility of these data, aligning with the [FAIR](https://www.go-fair.org/fair-principles/) criteria, enabling researchers and interested parties to utilize these findings effectively.
 
 ![](/assets/img/microglia.JPG)
 
