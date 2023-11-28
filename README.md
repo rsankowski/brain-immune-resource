@@ -2,8 +2,7 @@ Single-cell RNA-Sequencing resource of brain immune cells from humans and mice u
 
 ![](/assets/img/microglia.JPG)
 
-# Datasets
-## Multiomic spatial landscape of innate immune cells at human central nervous system borders
+# Multiomic spatial landscape of innate immune cells at human central nervous system borders
 ![](/assets/img/image-for-brain-immunity-website.png)
 
 Explore (coming)
