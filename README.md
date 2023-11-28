@@ -1,6 +1,8 @@
 ![](/assets/img/microglia.JPG)
 
 # Multiomic spatial landscape of innate immune cells at human central nervous system borders
+
+*Sankowski, Süß et al, Nature Medicine 2023*
 ![](/assets/img/image-for-brain-immunity-website.png)
 
 ## Explore (coming)
