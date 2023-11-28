@@ -6,11 +6,11 @@ The primary goal of this resource is to facilitate the widespread dissemination 
 # Multiomic spatial landscape of innate immune cells at human central nervous system borders
 ![](/assets/img/image-for-brain-immunity-website.png)
 
-### Explore (coming)
+## Explore (coming)
 
-### [View code](https://github.com/rsankowski/sankowski_et_al_human_CAMs_code)
+## [View code](https://github.com/rsankowski/sankowski_et_al_human_CAMs_code)
 
-### [Access Raw Data](https://ega-archive.org/studies/EGAS50000000030)
+## [Access Raw Data](https://ega-archive.org/studies/EGAS50000000030)
 
-### [Access Processed Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE245311)
+## [Access Processed Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE245311)
 
