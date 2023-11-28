@@ -1,5 +1,7 @@
 Single-cell RNA-Sequencing resource of brain immune cells from humans and mice under normal and pathological conditions. The data has been published in peer-reviewed journals by the Institute of Neuropathology at the University Clinic of Freiburg.
 
+The purpose of this resource is to share and disseminate these data in line with the [FAIR](https://www.go-fair.org/fair-principles/) criteria.
+
 ![](/assets/img/microglia.JPG)
 
 # Multiomic spatial landscape of innate immune cells at human central nervous system borders
