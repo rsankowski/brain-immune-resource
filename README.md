@@ -1,4 +1,4 @@
-Single-cell RNA-Sequencing resource of brain myeloid cells in normal and pathological conditions in humans and mice. The data has been published over the last several years by the Institute of Neuropahology at the University Clinic of Freiburg.
+Single-cell RNA-Sequencing resource of brain immune cells from humans and mice under normal and pathological conditions. The data has been published in peer-reviewed journals by the Institute of Neuropathology at the University Clinic of Freiburg.
 
 ![](/assets/img/microglia.JPG)
 
