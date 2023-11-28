@@ -10,7 +10,7 @@ The primary goal of this resource is to facilitate the widespread dissemination 
 
 ### [View code](https://github.com/rsankowski/sankowski_et_al_human_CAMs_code)
 
-### [Raw data download](https://ega-archive.org/studies/EGAS50000000030)
+### [Access Raw Data](https://ega-archive.org/studies/EGAS50000000030)
 
-### [Processed data download](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE245311)
+### [Access Processed Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE245311)
 
