@@ -16,3 +16,13 @@
 ## [Access Processed Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE245311)
 
 -------------
+# Single-cell profiling identifies myeloid cell subsets with distinct fates during neuroinflammation
+
+*Jordão et al, Science 2019*
+
+![](https://www.science.org/doi/10.1126/science.aat7554#supplementary-materials)
+
+## [Explore] (https://single-cell.shinyapps.io/mouse-eae-myeloid-explorer/)
+
+## [Access Raw and Processed Data] (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118948)
+
