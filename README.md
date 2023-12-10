@@ -20,7 +20,7 @@
 
 *Jordão et al, Science 2019*
 
-![](https://www.science.org/doi/10.1126/science.aat7554#supplementary-materials)
+![](/assets/img/363_aat7554_fa.jpeg)
 
 ## [Explore] (https://single-cell.shinyapps.io/mouse-eae-myeloid-explorer/)
 
