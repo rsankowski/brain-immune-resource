@@ -22,7 +22,7 @@
 
 ![](/assets/img/363_aat7554_fa.jpeg)
 
-## [Explore] (https://single-cell.shinyapps.io/mouse-eae-myeloid-explorer/)
+## [Explore](https://single-cell.shinyapps.io/mouse-eae-myeloid-explorer/)
 
-## [Access Raw and Processed Data] (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118948)
+## [Access Raw and Processed Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118948)
 
