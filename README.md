@@ -29,6 +29,6 @@
 -------------
 # Other useful resources
 
-## [brainrnaseq.org](brainrnaseq.org)
+## [brainrnaseq.org](https://brainrnaseq.org/)
 
-## [brainimmuneatlas.org](brainimmuneatlas.org)
+## [brainimmuneatlas.org](https://brainimmuneatlas.org/)
