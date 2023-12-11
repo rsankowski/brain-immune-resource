@@ -26,3 +26,9 @@
 
 ## [Access Raw and Processed Data](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE118948)
 
+-------------
+# Other useful resources
+
+## [brainrnaseq.org](brainrnaseq.org)
+
+## [brainimmuneatlas.org](brainimmuneatlas.org)
