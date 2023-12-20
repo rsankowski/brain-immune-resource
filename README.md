@@ -3,7 +3,7 @@
 -------------
 # Multiomic spatial landscape of innate immune cells at human central nervous system borders
 
-*Sankowski, Süß et al, Nature Medicine 2023*
+[*Sankowski, Süß et al, Nature Medicine 2023*](https://www.nature.com/articles/s41591-023-02673-1)
 
 ![](/assets/img/image-for-brain-immunity-website.png)
 
